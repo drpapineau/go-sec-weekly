@@ -11,7 +11,7 @@ In 2026, I committed to shipping **one Go project per week** focused on:
 ⚠️ All projects are educational and safe-by-design.
 
 ## Projects
-| Week | Project | Status | Link to Repo |
-|-----|--------|---------|------------|  
-| 01 | Log Analyzer | InProgress | TBD | 
+| Week | Project | Status | Link to Repo   |
+|-----|--------|---------|----------------|  
+| 01 | Log Analyzer | InProgress | ToBeDetermined | 
 
