@@ -11,16 +11,7 @@ In 2026, I committed to shipping **one Go project per week** focused on:
 ⚠️ All projects are educational and safe-by-design.
 
 ## Projects
-| Week | Project | Focus |
-|-----|--------|-------|
-| 01 | Log Analyzer | Concurrency |
-| 02 | Rate Limiter | DoS protection |
-| 03 | Auth API | JWT |
-...
-| 52 | Secure Capstone | Defense-in-depth |
+| Week | Project |
+|-----|--------|
+| 01 | Log Analyzer |
 
-## Principles
-- Small, auditable codebases
-- Explicit threat models
-- Tests over features
-- Security-first defaults
